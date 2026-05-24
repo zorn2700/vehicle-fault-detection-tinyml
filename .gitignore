@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+*.log
+
+# Firmware build
+firmware/STM32H743/Debug/
+*.elf
+*.hex
+*.bin
+
+# Datasets (large files)
+datasets/raw/*.csv
+datasets/raw/*.bin
+
+# Models (ignore training intermediates)
+models/trained/*.h5
+models/trained/*.pb
+
+# IDE
+.vscode/
+.idea/
+*.backup

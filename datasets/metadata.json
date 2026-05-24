@@ -1,0 +1,10 @@
+{
+  "description": "Vehicle fault detection dataset (simulated for demonstration)",
+  "classes": {
+    "0": "normal",
+    "1": "early_bearing_wear",
+    "2": "severe_fault"
+  },
+  "features": ["vib_peak_hz", "vib_rms_g", "vib_centroid", "vib_kurtosis", "magnetic_rms_uv", "current_rms_a", "temp_c"],
+  "total_samples": 10000
+}
