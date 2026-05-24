@@ -62,4 +62,14 @@ bibtex
   year={2025}
 }
 📄 License
-MIT
+MIT License – free for academic and commercial use with attribution.
+
+Contact
+For collaboration or questions, open an issue or email [your.email@example.com].
+
+Acknowledgments
+CMSIS-DSP for optimized FFT
+
+TensorFlow Lite Micro team
+
+STMicroelectronics for hardware support
